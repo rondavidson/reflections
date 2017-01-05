@@ -3,3 +3,12 @@ When I want to share or collaborate with others. Its also a good way to back up
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Someone else made changes so I want control on latest updates to branch.. Perhaps I will merge later?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks is when i don’t have control on repository. Clone is to get access locally. Branches is to keep seperate changes I am making to code as I work on it
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Allows you to see if there are confilicts. If there are none, you can just fast-forward merge
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We would then need to email each other files or use a drop box or other shared folder. Git hub makes it easier and formal
