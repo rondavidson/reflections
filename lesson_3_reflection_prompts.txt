@@ -12,3 +12,6 @@ Allows you to see if there are confilicts. If there are none, you can just fast-
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We would then need to email each other files or use a drop box or other shared folder. Git hub makes it easier and formal
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Easier to do master when you are just doing small changes. For experimenting, better to have different branch or working on bigger features
